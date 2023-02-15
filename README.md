@@ -1,11 +1,8 @@
 # acquire-valued-shoppers-challenge
- کد برای مساله kaggle:
-
+ code for kaggle challenge:
 
  https://www.kaggle.com/c/acquire-valued-shoppers-challenge/overview
 
-
- کار با دیتا با حجم 23GB
-
+Working with 23GB data. 
 
  Binary classification
